@@ -10,7 +10,6 @@
 #include <stdint.h>
 #include <limits>
 #include "Property.h"
-#include <map>
 
 namespace oxygine
 {
